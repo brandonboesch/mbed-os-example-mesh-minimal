@@ -17,7 +17,7 @@
             "target.features_add": ["NANOSTACK", "THREAD_ROUTER", "COMMON_PAL"],
             "mbed-trace.enable": false,
             "mbed-mesh-api.heap-size": 30000,
-            "mbed-mesh-api.thread-device-type": "MESH_DEVICE_TYPE_THREAD_ROUTER",
+            "mbed-mesh-api.thread-device-type": "MESH_DEVICE_TYPE_THREAD_MINIMAL_END_DEVICE",
             "platform.stdio-convert-newlines": true,
             "platform.stdio-baud-rate": 115200
         },
